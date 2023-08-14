@@ -1,6 +1,6 @@
 <template>
     <div>
-
+        <p>add faqs and help to this as well.</p>
     </div>
 </template>
 

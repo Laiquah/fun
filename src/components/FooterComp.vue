@@ -60,10 +60,12 @@
                                 <ul>
                                     <li><a href="../views/HomeView.vue" target="_blank">Home</a></li>
                                     <li><a href="../views/AboutView.vue">about</a></li>
-                                    <li><a href="../views/AboutView.vue">services</a></li>
-                                    <li><a href="../views/ContactView.vue">Contact</a></li>
-                                    <li><a href="../views/AboutView.vue">Team</a></li>
+                                    <li><a href="#team">Team</a></li>
+                                    <li><a href="#services">services</a></li>
+                                    <li><a href="#partnerships">partnerships</a></li>
                                     <li><a href="../views/ReviewView.vue">Review</a></li>
+                                    <li><a href="../views/">FAQs/Help</a></li>
+                                    <li><a href="../views/ContactView.vue">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
