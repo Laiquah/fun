@@ -21,7 +21,9 @@
                                 <i class="fas fa-phone"></i>
                                 <div class="cta-text">
                                     <h4>Call us</h4>
-                                    <span>0658190250</span>
+                                    <span><a href="tel:0658190250">065 819 0250</a></span>
+                                    <br>
+                                    <span><a href="tel:0679906093">067 990 6093</a></span>
                                 </div>
                             </div>
                         </div>
@@ -30,7 +32,9 @@
                                 <i class="far fa-envelope-open"></i>
                                 <div class="cta-text">
                                     <h4>Mail us</h4>
-                                    <span>cotielaiquah@gmail.com</span>
+                                    <span><a href="mailto:cotielaiquah@gmail.com" target="_blank">cotielaiquah@gmail.com</a></span>
+                                    <br>
+                                    <span><a href="mailto:eightonleepaulse@gmail.com" target="_blank">eightonleepaulse@gmail.com</a></span>
                                 </div>
                             </div>
                         </div>
@@ -54,7 +58,7 @@
                                     <h3>Useful Links</h3>
                                 </div>
                                 <ul>
-                                    <li><a href="../views/HomeView.vue">Home</a></li>
+                                    <li><a href="../views/HomeView.vue" target="_blank">Home</a></li>
                                     <li><a href="../views/AboutView.vue">about</a></li>
                                     <li><a href="../views/AboutView.vue">services</a></li>
                                     <li><a href="../views/ContactView.vue">Contact</a></li>
@@ -66,8 +70,9 @@
                         <div class="col-xl-4 col-lg-4 col-md-6 mb-50">
                             <div class="footer-social-icon">
                                 <span>Follow us</span>
-                                <a href="https://www.facebook.com/pottersworkCT/"><img src="https://i.postimg.cc/QMwWNNN2/icons8-facebook-150.png" loading="lazy" alt="facebook"></a>
-                                <a href="https://www.instagram.com/potterswork/"><img src="https://i.postimg.cc/gcRBWnkP/icons8-instagram-150.png" loading="lazy" alt="instagram"></a>
+                                <a href="https://www.facebook.com/pottersworkCT/" target="_blank"><img src="https://i.postimg.cc/QMwWNNN2/icons8-facebook-150.png" loading="lazy" alt="facebook"></a>
+                                <a href="https://www.instagram.com/potterswork/" target="_blank"><img src="https://i.postimg.cc/gcRBWnkP/icons8-instagram-150.png" loading="lazy" alt="instagram"></a>
+                                <a href="https://twitter.com/LaiquahC" target="_blank"><img src="https://i.postimg.cc/63bF9JwS/icons8-twitter-150.png" loading="lazy" alt="twitter"></a>
                             </div>
                         </div>
                     </div>
