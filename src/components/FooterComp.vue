@@ -56,23 +56,18 @@
                                 <ul>
                                     <li><a href="../views/HomeView.vue">Home</a></li>
                                     <li><a href="../views/AboutView.vue">about</a></li>
-                                    <li><a href="#">services</a></li>
-                                    <li><a href="#">portfolio</a></li>
-                                    <li><a href="#">Contact</a></li>
-                                    <li><a href="#">About us</a></li>
-                                    <li><a href="#">Our Services</a></li>
-                                    <li><a href="#">Expert Team</a></li>
-                                    <li><a href="#">Contact us</a></li>
-                                    <li><a href="#">Latest News</a></li>
+                                    <li><a href="../views/AboutView.vue">services</a></li>
+                                    <li><a href="../views/ContactView.vue">Contact</a></li>
+                                    <li><a href="../views/AboutView.vue">Team</a></li>
+                                    <li><a href="../views/ReviewView.vue">Review</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 mb-50">
                             <div class="footer-social-icon">
                                 <span>Follow us</span>
-                                <a href="#"><i class="fab fa-facebook-f facebook-bg"></i></a>
-                                <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
-                                <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
+                                <a href="https://www.facebook.com/pottersworkCT/"><img src="https://i.postimg.cc/QMwWNNN2/icons8-facebook-150.png" loading="lazy" alt="facebook"></a>
+                                <a href="https://www.instagram.com/potterswork/"><img src="https://i.postimg.cc/gcRBWnkP/icons8-instagram-150.png" loading="lazy" alt="instagram"></a>
                             </div>
                         </div>
                     </div>
@@ -105,7 +100,6 @@ ul {
     padding: 0px;
 }
 .footer-section {
-  background:  #fcc0d7;
   position: relative;
 }
 .footer-cta {
@@ -167,6 +161,9 @@ ul {
   color: #fff;
   font-size: 16px;
   margin-right: 15px;
+}
+.footer-social-icon img {
+  width: 2rem;
 }
 .footer-social-icon i {
   height: 40px;

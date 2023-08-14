@@ -7,7 +7,7 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav m-auto mb-2">
+          <ul class="navbar-nav ms-auto mb-2">
             <li class="nav-item">
               <router-link to="/">home</router-link>
             </li>
