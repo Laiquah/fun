@@ -399,6 +399,7 @@ h3 {
 }
 
 .card-container {
+    margin-left: 2rem;
     margin-bottom: 2rem;
     width: 300px;
     height: 300px;
