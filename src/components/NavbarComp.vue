@@ -30,6 +30,9 @@
               <router-link to="/contact">contact</router-link>
             </li>
             <li class="nav-item">
+              <router-link to="/users">users</router-link>
+            </li>
+            <li class="nav-item">
               <router-link to="/admin">admin</router-link>
             </li>
           </ul>

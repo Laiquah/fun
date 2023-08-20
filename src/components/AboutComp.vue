@@ -22,33 +22,37 @@
       <div class="row">
         <div class="col-3">
           <div class="book">
-            <p>Hello</p>
+            <p>Eighton Paulse
+              DIRECTOR AND OWNER</p>
             <div class="cover">
-              <img src="" loading="lazy" class="img-fluid" alt="eighton">
+              <img src="https://i.postimg.cc/DZjPBz5x/C12-C2-Eighton-Lee-Paulse-2-removebg-preview.png" loading="lazy" class="img-fluid" alt="eighton">
             </div>
           </div>
         </div>
         <div class="col-3">
           <div class="book">
-            <p>Hello</p>
+            <p>Laiquah Cotie
+              OPERATIONS & MARKETING</p>
             <div class="cover">
-              <img src="" loading="lazy" class="img-fluid" alt="laiquah">
+              <img src="https://i.postimg.cc/rpW0pDSP/C12-Laiquah-Cotie-2.jpg." loading="lazy" class="img-fluid" alt="laiquah">
             </div>
           </div>
         </div>
         <div class="col-3">
           <div class="book">
-            <p>Hello</p>
+            <p>Ethan Oliver
+              ACCOUNTS & BOOK-KEEPING</p>
             <div class="cover">
-              <img src="" loading="lazy" class="img-fluid" alt="ganiefah">
+              <img src="https://i.postimg.cc/CxV4xX2L/IMG-9863-1-removebg-preview.png" loading="lazy" class="img-fluid" alt="ethan">
             </div>
           </div>
         </div>
         <div class="col-3">
           <div class="book">
-            <p>Hello</p>
+            <p>Ganiefah Majiet
+              SLIPCASTING & SLIP MIXING</p>
             <div class="cover">
-              <img src="" loading="lazy" class="img-fluid" alt="ethan">
+              <img src="https://i.postimg.cc/Pf0qYjTh/My-project.png" loading="lazy" class="img-fluid" alt="ganiefah">
             </div>
           </div>
         </div>
@@ -56,23 +60,26 @@
       <div class="row">
         <div class="col-3">
           <div class="book">
-            <p>Hello</p>
+            <p>Laeeq Majal
+              SLABROLLING & FETTLING</p>
             <div class="cover">
-              <img src="" loading="lazy" class="img-fluid" alt="laeeq">
+              <img src="https://i.postimg.cc/yxhQnKgx/20221210-172518-removebg-preview.png" loading="lazy" class="img-fluid" alt="laeeq">
             </div>
           </div>
         </div>
         <div class="col-3">
           <div class="book">
-            <p>Hello</p>
+            <p>Codi Kader
+              PACKING & SLIPCASTING</p>
             <div class="cover">
-              <img src="" loading="lazy" class="img-fluid" alt="codi">
+              <img src="https://i.postimg.cc/ZKp4tv3v/C12-C2-Codi-Kader-1-removebg-preview.png" loading="lazy" class="img-fluid" alt="codi">
             </div>
           </div>
         </div>
         <div class="col-3">
           <div class="book">
-            <p>Hello</p>
+            <p>Mihlali Matrose
+              MOULD MAKING</p>
             <div class="cover">
               <img src="" loading="lazy" class="img-fluid" alt="mihlali">
             </div>
@@ -80,9 +87,10 @@
         </div>
         <div class="col-3">
           <div class="book">
-            <p>Hello</p>
+            <p>Mish-Al Taliep
+              FETTLING & HR</p>
             <div class="cover">
-              <img src="" loading="lazy" class="img-fluid" alt="mish-al">
+              <img src="https://i.postimg.cc/7PXZt23H/C12-Mish-Al-Taliep-1-removebg-preview.png" loading="lazy" class="img-fluid" alt="mish-al">
             </div>
           </div>
         </div>
@@ -186,7 +194,7 @@
             <div class="card-container">
                 <div class="card">
                 <div class="img-content">
-                  <img src="" alt="Firing" loading="lazy" class="img-fluid">
+                  <img src="https://i.postimg.cc/sDYr808N/viviane-okubo-2-Znk-Isutb4g-unsplash.jpg" alt="Firing" loading="lazy" class="img-fluid">
                 </div>
                 <div class="content">
                   <p class="heading">Firing</p>
@@ -202,7 +210,7 @@
             <div class="card-container">
                 <div class="card">
                 <div class="img-content">
-                  <img src="" alt="Pottery Workshops" loading="lazy" class="img-fluid">
+                  <img src="https://i.postimg.cc/yxVrJv1L/mats-hagwall-JL7z-PGJj4c-unsplash.jpg" alt="Pottery Workshops" loading="lazy" class="img-fluid">
                 </div>
                 <div class="content">
                   <p class="heading">Pottery Workshops</p>
@@ -219,7 +227,7 @@
             <div class="card-container">
                 <div class="card">
                 <div class="img-content">
-                  <img src="" alt="Custom Pieces" loading="lazy" class="img-fluid">
+                  <img src="https://i.postimg.cc/4NCx00fD/kazuo-ota-7a-EICAa-JK8-unsplash.jpg" alt="Custom Pieces" loading="lazy" class="img-fluid">
                 </div>
                 <div class="content">
                   <p class="heading">Custom Pieces</p>
@@ -235,7 +243,7 @@
             <div class="card-container">
                 <div class="card">
                 <div class="img-content">
-                  <img src="" alt="Children's Classes" loading="lazy" class="img-fluid">
+                  <img src="https://i.postimg.cc/PrP3c6xk/5fbeb0dff757755589766126-i-Stock-1014754398.jpg" alt="Children's Classes" loading="lazy" class="img-fluid">
                 </div>
                 <div class="content">
                   <p class="heading">Children's Classes</p>
@@ -254,7 +262,7 @@
             <div class="card-container">
                 <div class="card">
                 <div class="img-content">
-                  <img src="" alt="Date Nights or Group Activities" loading="lazy" class="img-fluid">
+                  <img src="https://i.postimg.cc/RZmPFvdv/potterydate-03.png" alt="Date Nights or Group Activities" loading="lazy" class="img-fluid">
                 </div>
                 <div class="content">
                   <p class="heading">Date Nights or Group Activities</p>
@@ -271,7 +279,7 @@
             <div class="card-container">
                 <div class="card">
                 <div class="img-content">
-                  <img src="" alt="Studio Memberships" loading="lazy" class="img-fluid">
+                  <img src="https://i.postimg.cc/YSKtjGVh/pottery-studio-membership-in-wisconsin.webp" alt="Studio Memberships" loading="lazy" class="img-fluid">
                 </div>
                 <div class="content">
                   <p class="heading">Studio Memberships</p>
@@ -288,7 +296,7 @@
             <div class="card-container">
                 <div class="card">
                 <div class="img-content">
-                  <img src="" alt="Art Exhibitions" loading="lazy" class="img-fluid">
+                  <img src="https://i.postimg.cc/MH4h4gJv/dannie-jing-3-GZlh-ROZIQg-unsplash.jpg" alt="Art Exhibitions" loading="lazy" class="img-fluid">
                 </div>
                 <div class="content">
                   <p class="heading">Art Exhibitions</p>
@@ -304,7 +312,7 @@
             <div class="card-container">
                 <div class="card">
                 <div class="img-content">
-                  <img src="" alt="Learning About Clay" loading="lazy" class="img-fluid">
+                  <img src="https://i.postimg.cc/90Gn80bN/dream-vacations-learning-paper-clay-sculptures-iria-galicia-spain.webp" alt="Learning About Clay" loading="lazy" class="img-fluid">
                 </div>
                 <div class="content">
                   <p class="heading">Learning About Clay</p>
@@ -318,7 +326,7 @@
         </div>
       </div>
     </section>
-    <button class="btn"><a href="../views/HomeView">Back to home page</a></button>
+    <button class="btn"><router-link to="/products">browse our products</router-link></button>
   </div>
 </template>
 
@@ -327,6 +335,9 @@ export default {};
 </script>
 
 <style scoped>
+.card{
+  background-color: #f7f4f1;
+}
 .about{
   background-color: #f7f4f1;
 }
@@ -348,7 +359,6 @@ h3 {
     z-index: -1;
     position: absolute;
     inset: 0;
-    background: white;
     transform: translate3d(0, 0, 0) scale(0.95);
     filter: blur(20px);
   }
@@ -366,7 +376,6 @@ h3 {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: white;
     transition: scale 0.6s, rotate 0.6s, filter 1s;
   }
   
@@ -401,7 +410,7 @@ h3 {
   
   .card .content .heading {
     font-size: small;
-    color:black;
+    color:white;
     font-weight: 700;
   }
   
@@ -432,7 +441,7 @@ h3 {
   border-radius: 10px;
   width: 220px;
   height: 300px;
-  background-color: whitesmoke;
+  background-color: white;
   -webkit-box-shadow: 1px 1px 12px #000;
   box-shadow: 1px 1px 12px #000;
   -webkit-transform: preserve-3d;
@@ -455,7 +464,7 @@ h3 {
 .cover {
   top: 0;
   position: absolute;
-  background-color: lightgray;
+  background-color: #f7f4f1;
   width: 100%;
   height: 100%;
   border-radius: 10px;
@@ -478,6 +487,13 @@ h3 {
   justify-content: center;
 }
 
+.cover img{
+  width: 12rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .book:hover .cover {
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -489,6 +505,12 @@ h3 {
 p {
   font-size: 20px;
   font-weight: bolder;
+}
+
+.btn{
+  border: 2px solid #f7f4f1;
+  background-color: #f7f4f1;
+  box-shadow: 4px 4px black;
 }
 
 @media screen and (max-width:300px) {
