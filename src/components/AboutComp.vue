@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="about">
     <h3>Who are ClayExpressions?</h3>
     <div>
       <p>
@@ -24,7 +24,7 @@
           <div class="book">
             <p>Hello</p>
             <div class="cover">
-              <p>Hover Me</p>
+              <img src="" loading="lazy" class="img-fluid" alt="eighton">
             </div>
           </div>
         </div>
@@ -32,7 +32,7 @@
           <div class="book">
             <p>Hello</p>
             <div class="cover">
-              <p>Hover Me</p>
+              <img src="" loading="lazy" class="img-fluid" alt="laiquah">
             </div>
           </div>
         </div>
@@ -40,7 +40,7 @@
           <div class="book">
             <p>Hello</p>
             <div class="cover">
-              <p>Hover Me</p>
+              <img src="" loading="lazy" class="img-fluid" alt="ganiefah">
             </div>
           </div>
         </div>
@@ -48,41 +48,7 @@
           <div class="book">
             <p>Hello</p>
             <div class="cover">
-              <p>Hover Me</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-3">
-          <div class="book">
-            <p>Hello</p>
-            <div class="cover">
-              <p>Hover Me</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-3">
-          <div class="book">
-            <p>Hello</p>
-            <div class="cover">
-              <p>Hover Me</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-3">
-          <div class="book">
-            <p>Hello</p>
-            <div class="cover">
-              <p>Hover Me</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-3">
-          <div class="book">
-            <p>Hello</p>
-            <div class="cover">
-              <p>Hover Me</p>
+              <img src="" loading="lazy" class="img-fluid" alt="ethan">
             </div>
           </div>
         </div>
@@ -92,7 +58,7 @@
           <div class="book">
             <p>Hello</p>
             <div class="cover">
-              <p>Hover Me</p>
+              <img src="" loading="lazy" class="img-fluid" alt="laeeq">
             </div>
           </div>
         </div>
@@ -100,7 +66,7 @@
           <div class="book">
             <p>Hello</p>
             <div class="cover">
-              <p>Hover Me</p>
+              <img src="" loading="lazy" class="img-fluid" alt="codi">
             </div>
           </div>
         </div>
@@ -108,7 +74,7 @@
           <div class="book">
             <p>Hello</p>
             <div class="cover">
-              <p>Hover Me</p>
+              <img src="" loading="lazy" class="img-fluid" alt="mihlali">
             </div>
           </div>
         </div>
@@ -116,41 +82,7 @@
           <div class="book">
             <p>Hello</p>
             <div class="cover">
-              <p>Hover Me</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-3">
-          <div class="book">
-            <p>Hello</p>
-            <div class="cover">
-              <p>Hover Me</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-3">
-          <div class="book">
-            <p>Hello</p>
-            <div class="cover">
-              <p>Hover Me</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-3">
-          <div class="book">
-            <p>Hello</p>
-            <div class="cover">
-              <p>Hover Me</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-3">
-          <div class="book">
-            <p>Hello</p>
-            <div class="cover">
-              <p>Hover Me</p>
+              <img src="" loading="lazy" class="img-fluid" alt="mish-al">
             </div>
           </div>
         </div>
@@ -186,7 +118,7 @@
             <div class="card-container">
                 <div class="card">
                 <div class="img-content">
-                  <img src="" alt="Wheel throwing" loading="lazy" class="img-fluid">
+                  <img src="https://i.postimg.cc/7Ymv6MmB/quino-al-v-Bxl-L1xp-Sdc-unsplash.jpg" alt="Wheel throwing" loading="lazy" class="img-fluid">
                 </div>
                 <div class="content">
                   <p class="heading">Wheel Throwing</p>
@@ -203,7 +135,7 @@
             <div class="card-container">
                 <div class="card">
                 <div class="img-content">
-                  <img src="" alt="Hand-Building" loading="lazy" class="img-fluid">
+                  <img src="https://i.postimg.cc/yNTpQ7tL/diana-light-u-jt9-A7-FADk-unsplash.jpg" alt="Hand-Building" loading="lazy" class="img-fluid">
                 </div>
                 <div class="content">
                   <p class="heading">Hand-Building</p>
@@ -219,7 +151,7 @@
             <div class="card-container">
                 <div class="card">
                 <div class="img-content">
-                  <img src="" alt="Sculpting" loading="lazy" class="img-fluid">
+                  <img src="https://i.postimg.cc/zG2FVVmZ/ilia-zolas-i0-WO-Rze-B2-Y-unsplash.jpg" alt="Sculpting" loading="lazy" class="img-fluid">
                 </div>
                 <div class="content">
                   <p class="heading">Sculpting</p>
@@ -235,7 +167,7 @@
             <div class="card-container">
                 <div class="card">
                 <div class="img-content">
-                  <img src="" alt="Glazing" loading="lazy" class="img-fluid">
+                  <img src="https://i.postimg.cc/pTcmBnZR/toa-heftiba-qtke-IDsgr-Lg-unsplash.jpg" alt="Glazing" loading="lazy" class="img-fluid">
                 </div>
                 <div class="content">
                   <p class="heading">Glazing</p>
@@ -395,6 +327,9 @@ export default {};
 </script>
 
 <style scoped>
+.about{
+  background-color: #f7f4f1;
+}
 h3 {
   text-decoration: underline;
 }
@@ -554,5 +489,16 @@ h3 {
 p {
   font-size: 20px;
   font-weight: bolder;
+}
+
+@media screen and (max-width:300px) {
+  .col-3{
+    width: 10rem;
+  }
+
+  .card{
+    width: 250px;
+    margin: 0;
+  }
 }
 </style>
