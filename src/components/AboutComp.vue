@@ -386,6 +386,7 @@
         </div>
       </div>
     </section>
+    <button class="btn"><a href="../views/HomeView">Back to home page</a></button>
   </div>
 </template>
 
