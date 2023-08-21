@@ -380,7 +380,7 @@ h3 {
   }
   
   .card .img-content svg {
-    width: 50px;
+    width: 80px;
     height: 50px;
     fill: #e8e8e8;
     transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);

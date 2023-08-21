@@ -58,7 +58,7 @@
                                     <h3>Useful Links</h3>
                                 </div>
                                 <ul>
-                                    <li><a href="../views/HomeView.vue" target="_blank">Home</a></li>
+                                    <li><a href="../views/HomeView.vue">Home</a></li>
                                     <li><a href="../views/AboutView.vue">about</a></li>
                                     <li><a href="#team">Team</a></li>
                                     <li><a href="#services">services</a></li>
